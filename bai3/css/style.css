@@ -1,0 +1,32 @@
+.section1{
+ display: flex;
+ justify-content: center;
+ padding-top: 2rem;
+}
+.seciton1__text h1{
+    font-size: 3rem;
+}
+.seciton1__text p{
+    margin-left: -4rem;
+    padding-top: 2rem;
+}
+.seciton2__text{
+    margin-left: 15rem;
+}
+.seciton2__text h4{
+    padding-top: 3rem;
+}
+.seciton2__text p{
+    padding-top: 1rem;
+}
+
+.seciton3__text{
+    margin-left: 15rem;
+}
+.section3__text p{
+    padding-top: 1rem;
+}
+.bn19{
+    margin-left: 14rem;
+    margin-top: 2rem;
+}
